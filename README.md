@@ -12,4 +12,4 @@
  ## How to Run
  1. Click any '.ipynb' file.
  2. Click the **Open in Colab** button at the top.
- 3. 3. Run the cells in orders.
+ 3. Run the cells in orders.
